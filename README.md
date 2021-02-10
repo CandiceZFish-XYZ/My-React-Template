@@ -5,7 +5,7 @@
 1. Install Node.js if haven't
 
 2. Use my git template:
-   Download bare-bone template or git clone https://github.com/c-xyz/My-React-Template  
+   Download bare-bone template or git clone this repository
    cd My-React-Template  
    `npm install`  
    `npm start` for dev environment.
